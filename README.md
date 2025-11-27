@@ -4,3 +4,5 @@ A probability case study uses real-world data to predict outcomes under uncertai
 For example, businesses often evaluate customer behavior data to estimate the likelihood of a purchase, helping them improve marketing strategies, personalize offers, and increase sales.
 
 By transforming uncertain trends into measurable, data-driven insights, probability case studies enable better forecasting, optimized decision-making, and smarter planning across industries such as finance, marketing, healthcare, and operations.
+
+medium blog link:- https://medium.com/@lohithgayam007/why-75-confidence-beats-100-guessing-mastering-probability-in-data-analysis-777e858e2d8f
